@@ -1,1 +1,2 @@
-Taste my New Mod
+v 1.2
+- Security update
