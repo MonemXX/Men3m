@@ -1,3 +1,3 @@
-- v 2
+- v 2.0
 - Security update.
 - Panel keys changed.
