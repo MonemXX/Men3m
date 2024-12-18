@@ -1,4 +1,4 @@
-- v 2.4
+- v 2.5
 - Test Random Crash
 - less recoil added
 
