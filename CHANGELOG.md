@@ -1,2 +1,3 @@
-- v 1.8
-- Security update
+- v 1.9
+- Security update.
+- Panel keys changed.
