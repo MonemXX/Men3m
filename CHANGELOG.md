@@ -1,2 +1,2 @@
-- v 1.5
+- v 1.6
 - Security update
