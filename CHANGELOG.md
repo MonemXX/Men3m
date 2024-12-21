@@ -1,5 +1,5 @@
 - v 2.8
-- New Bypass
+- Some problem has fixed
 
 
 
