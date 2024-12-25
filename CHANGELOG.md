@@ -1,4 +1,4 @@
-- v 2.8
+- v 3.0
 - Some problem has fixed
 
 
