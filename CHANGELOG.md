@@ -1,5 +1,6 @@
-- v 3.0
-- Some problem has fixed
+- Player Esp In Car Fixed.
+- New Update for bypass.
+
 
 
 
