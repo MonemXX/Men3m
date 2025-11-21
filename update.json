@@ -1,6 +1,20 @@
 {
-  "version": "v1.0.8",
-  "versionCode": 12,
-  "zipUrl": "https://github.com/MonemXX/Men3m/raw/main/FLVVSH.zip",
-  "changelog": "https://raw.githubusercontent.com/MonemXX/Men3m/main/changelog.md"
+  "files": [
+    {
+      "name": "Injector64",
+      "url": "https://raw.githubusercontent.com/MonemXX/Men3m/main/Injector64",
+      "version": 1
+    },
+    {
+      "name": "libDelta.so",
+      "url": "https://raw.githubusercontent.com/MonemXX/Men3m/main/libDelta.so",
+      "version": 1
+    },
+    {
+      "name": "libPUBG64.so",
+      "url": "https://raw.githubusercontent.com/MonemXX/Men3m/main/libPUBG64.so",
+      "version": 1
+    }
+  ]
 }
+
