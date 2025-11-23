@@ -1,7 +1,7 @@
 {
   "games": {
     "pubg": { "status": 1, "version": 6 },
-    "delta": { "status": 0, "version": 7 }
+    "delta": { "status": 1, "version": 7 }
   },
 
   "files": [
