@@ -1,4 +1,15 @@
 {
+  "games": {
+    "pubg": {
+      "status": 1,
+      "version": 1.1
+    },
+    "delta": {
+      "status": 1,
+      "version": 1.1
+    }
+  },
+
   "files": [
     {
       "name": "Injector64",
@@ -17,4 +28,3 @@
     }
   ]
 }
-
