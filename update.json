@@ -1,9 +1,5 @@
 {
-  "games": {
-    "pubg": { "status": 1, "version": 6 },
-    "delta": { "status": 1, "version": 7 }
-  },
-
+  "status": 1,
   "files": [
     {
       "name": "Injector64",
@@ -13,12 +9,7 @@
     {
       "name": "libDelta.so",
       "url": "https://raw.githubusercontent.com/MonemXX/Men3m/main/libDelta.so",
-      "version": 16
-    },
-    {
-      "name": "libPUBG64.so",
-      "url": "https://raw.githubusercontent.com/MonemXX/Men3m/main/libPUBG64.so",
-      "version": 6
+      "version": 1
     }
   ]
 }
