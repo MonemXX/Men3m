@@ -1,5 +1,19 @@
 {
   "status": 1,
+  "versions": {
+    "garena": {
+      "status": 1,
+      "name": "Garena"
+    },
+    "global": {
+      "status": 1,
+      "name": "Global"
+    },
+    "china": {
+      "status": 0,
+      "name": "China"
+    }
+  },
   "files": [
     {
       "name": "Injector64",
