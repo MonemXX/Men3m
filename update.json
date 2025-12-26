@@ -6,11 +6,11 @@
       "name": "Garena"
     },
     "global": {
-      "status": 0,
+      "status": 1,
       "name": "Global"
     },
     "china": {
-      "status": 1,
+      "status": 0,
       "name": "China"
     }
   },
