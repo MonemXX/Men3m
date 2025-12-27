@@ -1,12 +1,12 @@
 {
-  "status": 0,
+  "status": 1,
   "versions": {
     "garena": {
-      "status": 1,
+      "status": 0,
       "name": "Garena"
     },
     "global": {
-      "status": 1,
+      "status": 0,
       "name": "Global"
     },
     "china": {
