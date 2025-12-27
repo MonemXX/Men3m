@@ -1,5 +1,5 @@
 {
-  "status": 0,
+  "status": 1,
   "versions": {
     "garena": {
       "status": 1,
@@ -10,7 +10,7 @@
       "name": "Global"
     },
     "china": {
-      "status": 0,
+      "status": 1,
       "name": "China"
     }
   },
