@@ -10,7 +10,7 @@
       "name": "Global"
     },
     "china": {
-      "status": 0,
+      "status": 1,
       "name": "China"
     }
   },
