@@ -6,11 +6,11 @@
       "name": "Garena"
     },
     "global": {
-      "status": 1,
+      "status": 0,
       "name": "Global"
     },
     "china": {
-      "status": 1,
+      "status": 0,
       "name": "China"
     }
   },
@@ -23,7 +23,7 @@
     {
       "name": "libDelta.so",
       "url": "https://raw.githubusercontent.com/MonemXX/Men3m/main/libDelta.so",
-      "version": "v1.9"
+      "version": "v2.0"
     }
   ]
 }
