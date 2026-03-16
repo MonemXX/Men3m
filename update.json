@@ -1,34 +1,60 @@
 {
   "status": 1,
-  "versions": {
-    "garena": {
-      "status": 1,
-      "name": "Garena"
+  "games": {
+    "delta_force": {
+      "name": "Delta Force Mobile",
+      "versions": {
+        "garena": {
+          "status": 1,
+          "name": "Garena"
+        },
+        "global": {
+          "status": 1,
+          "name": "Global"
+        },
+        "china": {
+          "status": 0,
+          "name": "China"
+        }
+      },
+      "files": [
+        {
+          "name": "Injector64",
+          "url": "https://raw.githubusercontent.com/MonemXX/Men3m/main/Injector64",
+          "version": "v1.0.0"
+        },
+        {
+          "name": "libDelta.so",
+          "url": "https://raw.githubusercontent.com/MonemXX/Men3m/main/libDelta.so",
+          "version": "v2.3"
+        }
+      ]
     },
-    "global": {
-      "status": 1,
-      "name": "Global"
-    },
-    "china": {
-      "status": 0,
-      "name": "China"
+
+    "arena_breakout": {
+      "name": "Arena Breakout Mobile",
+      "versions": {
+        "global": {
+          "status": 1,
+          "name": "Global"
+        },
+        "lite": {
+          "status": 1,
+          "name": "Lite"
+        }
+      },
+      "files": [
+        {
+          "name": "Injector64",
+          "url": "https://raw.githubusercontent.com/MonemXX/Men3m/main/Injector64",
+          "version": "v1.0.0"
+        },
+        {
+          "name": "libArena.so",
+          "url": "https://raw.githubusercontent.com/MonemXX/Men3m/main/libArena.so",
+          "version": "v1.0"
+        }
+      ]
     }
-  },
-  "files": [
-    {
-      "name": "Injector64",
-      "url": "https://raw.githubusercontent.com/MonemXX/Men3m/main/Injector64",
-      "version": "v1.0.0"
-    },
-    {
-      "name": "libDelta.so",
-      "url": "https://raw.githubusercontent.com/MonemXX/Men3m/main/libDelta.so",
-      "version": "v2.3"
-    },
-    {
-      "name": "libArena.so",
-      "url": "https://raw.githubusercontent.com/MonemXX/Men3m/main/libArena.so",
-      "version": "v1.0"
-    }
-  ]
+  }
 }
