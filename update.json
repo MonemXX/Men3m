@@ -24,6 +24,11 @@
       "name": "libDelta.so",
       "url": "https://raw.githubusercontent.com/MonemXX/Men3m/main/libDelta.so",
       "version": "v2.3"
+    },
+    {
+      "name": "libArena.so",
+      "url": "https://raw.githubusercontent.com/MonemXX/Men3m/main/libArena.so",
+      "version": 1
     }
   ]
 }
