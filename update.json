@@ -14,6 +14,16 @@
       "name": "China"
     }
   },
+  "arena_versions": {
+    "global": {
+      "status": 1,
+      "name": "Global"
+    },
+    "lite": {
+      "status": 1,
+      "name": "Lite"
+    }
+  },
   "files": [
     {
       "name": "Injector64",
@@ -24,6 +34,11 @@
       "name": "libDelta.so",
       "url": "https://raw.githubusercontent.com/MonemXX/Men3m/main/libDelta.so",
       "version": "v2.3"
+    },
+    {
+      "name": "libArena.so",
+      "url": "https://raw.githubusercontent.com/MonemXX/Men3m/main/libArena.so",
+      "version": "v1.8"
     }
   ]
 }
