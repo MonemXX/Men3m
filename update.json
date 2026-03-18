@@ -16,7 +16,7 @@
   },
   "arena_versions": {
     "global": {
-      "status": 0,
+      "status": 1,
       "name": "Global"
     },
     "lite": {
